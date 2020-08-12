@@ -1,2 +1,3 @@
 # ENJOY
-just practice for resovling real problem or just funny 
+just practice for resolving real problem or just funny 
+
