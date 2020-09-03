@@ -1,0 +1,1 @@
+this souce from ; https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/?utm_source=AVTwitter&utm_medium=post&utm_campaign=2_September_beginner_articlee
