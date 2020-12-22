@@ -3,7 +3,7 @@ from inflearn
 01 section
 
 
-# keyword ; pandas , seaborn , groupby , pivot_table , melt , unstack , ... etc
+## keyword ; pandas , seaborn , groupby , pivot_table , melt , unstack , ... etc
 
 
 02 section
