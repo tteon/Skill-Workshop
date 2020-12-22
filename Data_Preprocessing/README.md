@@ -1,12 +1,12 @@
 from inflearn 
 
-01 section
+# 01 section
 
 
-## keyword ; pandas , seaborn , groupby , pivot_table , melt , unstack , ... etc
+###keyword ; pandas , seaborn , groupby , pivot_table , melt , unstack , ... etc
 
 
-02 section
+# 02 section
 
 what is include this ipynb ?
 
@@ -30,8 +30,8 @@ what is include this ipynb ?
 
 ㆍ빈도수 확인 할 때 .head / 혹은 특정 값 이상 확인 할 때 > OOO
 
-more study 
+##more study 
 
-## isin을 사용해서 서브셋 만들기 ##
-## unstack , stack , melt  
-## sns plotting 과 pandas plotting 에 대해 좀 더 고민해보기.
+###isin을 사용해서 서브셋 만들기 ##
+###unstack , stack , melt  
+###sns plotting 과 pandas plotting 에 대해 좀 더 고민해보기.
